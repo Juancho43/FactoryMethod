@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Interfaz de empresas\Interfaz de empresas\bin\Debug\net8.0\Interfaz de empresas.exe
+C:\Users\Usuario\source\repos\Interfaz de empresas\Interfaz de empresas\bin\Debug\net8.0\Interfaz de empresas.deps.json
+C:\Users\Usuario\source\repos\Interfaz de empresas\Interfaz de empresas\bin\Debug\net8.0\Interfaz de empresas.runtimeconfig.json
+C:\Users\Usuario\source\repos\Interfaz de empresas\Interfaz de empresas\bin\Debug\net8.0\Interfaz de empresas.dll
+C:\Users\Usuario\source\repos\Interfaz de empresas\Interfaz de empresas\bin\Debug\net8.0\Interfaz de empresas.pdb
+C:\Users\Usuario\source\repos\Interfaz de empresas\Interfaz de empresas\obj\Debug\net8.0\Interfaz de empresas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Interfaz de empresas\Interfaz de empresas\obj\Debug\net8.0\Interfaz de empresas.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Interfaz de empresas\Interfaz de empresas\obj\Debug\net8.0\Interfaz de empresas.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Interfaz de empresas\Interfaz de empresas\obj\Debug\net8.0\Interfaz de empresas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Interfaz de empresas\Interfaz de empresas\obj\Debug\net8.0\Interfaz de empresas.dll
+C:\Users\Usuario\source\repos\Interfaz de empresas\Interfaz de empresas\obj\Debug\net8.0\refint\Interfaz de empresas.dll
+C:\Users\Usuario\source\repos\Interfaz de empresas\Interfaz de empresas\obj\Debug\net8.0\Interfaz de empresas.pdb
+C:\Users\Usuario\source\repos\Interfaz de empresas\Interfaz de empresas\obj\Debug\net8.0\Interfaz de empresas.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Interfaz de empresas\Interfaz de empresas\obj\Debug\net8.0\ref\Interfaz de empresas.dll
